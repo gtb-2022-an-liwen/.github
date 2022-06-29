@@ -1,7 +1,7 @@
 # Introduce
 I am An Liwen,I am a gradute, I majored in computer science. </br> 
 I don't like take pictures, so there are very few photos that can be share. I will share a photo of myself below. :) </br>
-![my photos](./assert/me.jpg)</br>
+![my photos](../assert/me.jpg)</br>
 
 **Used languages**.</br>
 - java
